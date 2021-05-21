@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shantonu Prodhan
-- 👀 I’m interested in earning new developing and programming skills.
+- 👀 I’m interested in learning new developing and programming skills.
 - 🌱 I’m currently learning PHP, Laravel, JavaScript.
 - 📫 Email: shan.sp09@gmail.com
 
