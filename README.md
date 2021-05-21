@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shantonu Prodhan
+- 👋 Hi, I’m Shantonu Prodhan
 - 👀 I’m interested in earning new developing and programming skills.
 - 🌱 I’m currently learning PHP, Laravel, JavaScript.
 - 📫 Email: shan.sp09@gmail.com
